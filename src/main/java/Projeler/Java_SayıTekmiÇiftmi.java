@@ -2,7 +2,7 @@ package Projeler;
 
 import java.util.Scanner;
 
-public class Java13 {
+public class Java_SayıTekmiÇiftmi {
     public static void main(String[] args) {
         /*
         girilen sayı çiftmi tekmi?

@@ -3,7 +3,7 @@ package Projeler;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Java12 {
+public class Java_TekrarEdenSayılarıSilme {
     public static void main(String[] args) {
         //Array'deki tekrar eden ssayıları silip
         //her sayıdan 1 tane olan bir arry listesi olan bir kod yazınız
@@ -18,6 +18,38 @@ public class Java12 {
                 tekrarsizSayilar.add(arr[i]);
             }
 
-        }System.out.println(tekrarsizSayilar);
+        }
+        System.out.println(tekrarsizSayilar);
+
+
+        int [] arr2 = {2,6,6,9,5,4,7,8,2,1,3,2,6,5,9,8,74,8,9,6,5,23,14};
+
+      List<Integer>  tekrarEtmeyenSayilar = new ArrayList<>();
+
+      for (int i =0; i< arr2.length; i++){
+
+          if (!tekrarEtmeyenSayilar.contains(arr2[i])){
+
+              tekrarEtmeyenSayilar.add(arr2[i]);
+          }
+
+
+      }
+        System.out.println(tekrarEtmeyenSayilar);
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
+
+
 }

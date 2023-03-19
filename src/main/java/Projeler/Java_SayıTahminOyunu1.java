@@ -2,7 +2,7 @@ package Projeler;
 
 import java.util.Scanner;
 
-public class Java08 {
+public class Java_SayıTahminOyunu1 {
     public static void main(String[] args) {
         Scanner klavye = new Scanner(System.in);
 

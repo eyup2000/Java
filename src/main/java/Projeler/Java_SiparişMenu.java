@@ -2,7 +2,7 @@ package Projeler;
 
 import java.util.Scanner;
 
-public class Java07 {
+public class Java_SiparişMenu {
     //sparişMenü
 
     public static void main(String[] args) {

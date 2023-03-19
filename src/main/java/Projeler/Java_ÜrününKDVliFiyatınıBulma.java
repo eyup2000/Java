@@ -2,7 +2,10 @@ package Projeler;
 
 import java.util.Scanner;
 
-public class Java06 {
+public class Java_ÜrününKDVliFiyatınıBulma {
+
+    //bir ürün fiyatının kdv li fiyatını bulan bir kod yazınız
+
     public static void main(String[] args) {
 
         double  fiyat , kdvfiyat , kdv = 0.19;

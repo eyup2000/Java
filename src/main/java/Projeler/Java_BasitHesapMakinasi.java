@@ -2,7 +2,7 @@ package Projeler;
 
 import java.util.Scanner;
 
-public class Java04 {
+public class Java_BasitHesapMakinasi {
     //Basit Hesap makinasi
 
     public static void main(String[] args) {

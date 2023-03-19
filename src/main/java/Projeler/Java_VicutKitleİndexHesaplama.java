@@ -2,7 +2,7 @@ package Projeler;
 
 import java.util.Scanner;
 
-public class Java10 {
+public class Java_VicutKitleİndexHesaplama {
     public static void main(String[] args) {
         //vicut kitle indexi hesaplama
 
