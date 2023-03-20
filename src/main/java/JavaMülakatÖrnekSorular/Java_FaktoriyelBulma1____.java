@@ -1,8 +1,8 @@
-package Projeler;
+package JavaMülakatÖrnekSorular;
 
 import java.util.Scanner;
 
-public class Java_FaktoriyelBulma {
+public class Java_FaktoriyelBulma1____ {
     public static void main(String[] args) {
 
 
@@ -11,7 +11,7 @@ public class Java_FaktoriyelBulma {
     Scanner sc = new Scanner(System.in);
 
 
-        System.out.println("Lütfen bil sayı giriniz : ");
+        System.out.println("Lütfen bir sayı giriniz : ");
         int sayi = sc.nextInt();
 
 

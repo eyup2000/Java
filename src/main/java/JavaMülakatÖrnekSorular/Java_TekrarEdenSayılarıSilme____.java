@@ -1,9 +1,9 @@
-package Projeler;
+package JavaMülakatÖrnekSorular;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Java_TekrarEdenSayılarıSilme {
+public class Java_TekrarEdenSayılarıSilme____ {
     public static void main(String[] args) {
         //Array'deki tekrar eden ssayıları silip
         //her sayıdan 1 tane olan bir arry listesi olan bir kod yazınız

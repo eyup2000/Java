@@ -1,8 +1,8 @@
-package Projeler;
+package JavaMülakatÖrnekSorular;
 
 import java.util.Scanner;
 
-public class JavaFaktoriyelBulma2 {
+public class JavaFaktoriyelBulma2_____ {
 
     //Faktöriyel bulma
     public static void main(String[] args) {
