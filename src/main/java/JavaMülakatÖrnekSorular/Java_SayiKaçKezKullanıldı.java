@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Java_SayiKaçKezKullanıldı {
 
     /*
+
     Bir Array içerisindeki tam sayıların kaç kez yazılduğını bulan bir kod yazınız.
 
      */

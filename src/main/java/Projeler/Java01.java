@@ -30,5 +30,8 @@ public class Java01 {
 
         ortalama01 = toplam01 / 2;
         System.out.println("ortalama "+ortalama01);
+
+
+
     }
 }

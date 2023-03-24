@@ -2,7 +2,12 @@ package Projeler;
 
 import java.util.Scanner;
 
+
+
 public class ornek {
+
+    static int sayı;
+    public int sayılar;
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
