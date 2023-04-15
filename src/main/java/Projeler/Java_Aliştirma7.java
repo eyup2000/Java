@@ -21,5 +21,41 @@ public class Java_Aliştirma7 {
 
         System.out.println("Girilen sayinin faktoriyeli : "+faktoriyel);
 
-    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
 }
